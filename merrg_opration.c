@@ -71,5 +71,8 @@ int main()
     }
     merge(a, b, c, n1, n2);
     printf("by");
+    printf("new brach");
+    printf("new1 brach");
+    printf("new 2brach");
     return 0;
 }
