@@ -11,4 +11,5 @@ git branch -M main
 git remote add origin https://github.com/Sufyaancoders/javascript-prectice-couse.git
 git push -u origin main*/
 console.log("hello")
+console.log("byys")
 
