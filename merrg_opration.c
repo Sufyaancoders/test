@@ -65,7 +65,9 @@ int main()
     {
         scanf("%d", &b[i]);
         printf("number =%d", i + 1);
-    
+    printf("new brach");
+    printf("new1 brach");
+    printf("new 2brach");
     }
     merge(a, b, c, n1, n2);
     printf("by");
